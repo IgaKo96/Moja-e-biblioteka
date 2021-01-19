@@ -1,0 +1,17 @@
+div.header
+{
+	width:100%;
+	background-color: blue;
+}
+div.logo
+{
+	width:20%;
+	float:left;
+	
+}
+div.menu
+{
+	width:80%;
+	float:right;
+	text-align:right; 
+}
